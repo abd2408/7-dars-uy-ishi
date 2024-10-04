@@ -1,3 +1,4 @@
 print("Salom abd")
 print("Bugungi sana: 4.09.2024")
 print("Uchinchi qatorni ham yozdim")
+print("To'rtinchi qatorni ham yozdim")
